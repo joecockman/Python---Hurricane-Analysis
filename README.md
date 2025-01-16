@@ -1,5 +1,7 @@
 # Python---Hurricane-Analysis
 
+![ELFL League Banner](Screenshots/.png)
+
 Project Goals
 The following project work is part of the Codecademy 'Business Intelligence Data Analyst' Career Path. For this project, open-ended questions were set around provided hurricane data. The goal was to use everything I had learned so far about Python to create functions that would answer the given question.
 
